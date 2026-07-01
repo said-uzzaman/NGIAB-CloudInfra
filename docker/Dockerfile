@@ -1,4 +1,4 @@
-FROM rockylinux:9.1 AS base
+FROM rockylinux:9.3 AS base
 ENV TROUTE_REPO=said-uzzaman/t-route-MST
 ENV TROUTE_BRANCH=main
 ENV NGEN_REPO=said-uzzaman/ngen
